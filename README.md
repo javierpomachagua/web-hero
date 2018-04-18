@@ -1,6 +1,8 @@
-# SPA
+# HEROES SPA
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.8.
+This project was part of the [course](https://www.udemy.com/angular-2-fernando-herrera/learn/v4/overview) (Angular de cero a experto creando aplicaciones)
+
+We have a list of heroes from DC and Marvel, we can filter and show hero profile.
 
 ## Development server
 
